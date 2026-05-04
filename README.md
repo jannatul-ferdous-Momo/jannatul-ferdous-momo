@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Jannatul Ferdous Momo</h1>
-<h3 align="center">Currently pursuing Bachelor in Computer Science and Engineering</h3>
+<h3 align="center">Graduated in Computer Science and Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jannatul-ferdous-momo&label=Profile%20views&color=0e75b6&style=flat" alt="jannatul-ferdous-momo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jannatul-ferdous-momo" alt="jannatul-ferdous-momo" /></a> </p>
 
-- 🔭 I’m currently working on **DSA**
 
-- 🌱 I’m currently learning **Competitive programming**
+- 🌱 I’m currently learning **Data analysis**
 
-- 💬 Ask me about **C, C++, Python**
+- 💬 Ask me about **SQL, AI, Python**
 
 - 📫 Reach me at **jannatulferdous3484@gmail.com**
 
